@@ -6,6 +6,7 @@ I build software and hardware end to end: native Apple apps, Python and Rust ser
 
 | | |
 |---|---|
+| [**Leeway**](https://github.com/nikolaus018/leeway) | Native iOS chartplotter and passage planner with offline sea charts, land-avoiding and weather routing, AIS, anchor watch and NMEA instruments. SwiftUI, MapLibre, a Rust data server, charts built from open bathymetry. |
 | [**Venvy**](https://github.com/nikolaus018/venvy) | Self-hosted hosting panel for Python and Rust apps: process supervisor, browser terminal, live logs, backups and Cloudflare Tunnel publishing. FastAPI, SQLite, PWA, with an end-to-end test suite and a rollback-safe installer. |
 | [**Passable**](https://github.com/nikolaus018/passable) | macOS app that builds DJ-style transitions stem by stem. HTDemucs on Core ML, neural beat tracking, automatic set ordering and an editable automation timeline. Swift, SwiftUI, Accelerate. |
 | [**EAR Router**](https://github.com/nikolaus018/ear-router) | Offline-first iOS route planner used by Meals on Wheels drivers in Vienna. SwiftUI, SwiftData, MapKit, CarPlay and Siri, no third-party dependencies. |
