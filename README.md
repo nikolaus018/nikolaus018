@@ -4,19 +4,30 @@ I build software and hardware end to end: native Apple apps, Python and Rust ser
 
 ## Projects
 
+### Apps and software
+
 | | |
 |---|---|
 | [**Leeway**](https://github.com/nikolaus018/leeway) | Native iOS chartplotter and passage planner with offline sea charts, land-avoiding and weather routing, AIS, anchor watch and NMEA instruments. SwiftUI, MapLibre, a Rust data server, charts built from open bathymetry. |
-| [**Venvy**](https://github.com/nikolaus018/venvy) | Self-hosted hosting panel for Python and Rust apps: process supervisor, browser terminal, live logs, backups and Cloudflare Tunnel publishing. FastAPI, SQLite, PWA, with an end-to-end test suite and a rollback-safe installer. |
 | [**Passable**](https://github.com/nikolaus018/passable) | macOS app that builds DJ-style transitions stem by stem. HTDemucs on Core ML, neural beat tracking, automatic set ordering and an editable automation timeline. Swift, SwiftUI, Accelerate. |
 | [**EAR Router**](https://github.com/nikolaus018/ear-router) | Offline-first iOS route planner used by Meals on Wheels drivers in Vienna. SwiftUI, SwiftData, MapKit, CarPlay and Siri, no third-party dependencies. |
-| [**dji-fcc-esp32**](https://github.com/nikolaus018/dji-fcc-esp32) | ESP32-S3 firmware plus a complete KiCad design for a pocket dongle that replaces a phone app. ESP-IDF, USB host, custom PCB. |
+| [**Venvy**](https://github.com/nikolaus018/venvy) | Self-hosted hosting panel for Python and Rust apps: process supervisor, browser terminal, live logs, backups and Cloudflare Tunnel publishing. FastAPI, SQLite, PWA, with an end-to-end test suite and a rollback-safe installer. |
+
+### Hardware and firmware
+
+| | |
+|---|---|
+| [**garageDoor-pro**](https://github.com/nikolaus018/garageDoor-pro) | ESP32-C3 + GPS box that opens the garage door when you leave and arrive. ESP-IDF firmware with a host-tested state machine, captive-portal setup panel, custom 4-layer KiCad PCB and a perfboard build guide. |
+| [**dji-fcc-esp32**](https://github.com/nikolaus018/dji-fcc-esp32) | ESP32-S3 firmware plus a complete KiCad design for a pocket dongle that replaces a phone app. ESP-IDF, USB host, custom PCB, [web flasher](https://nikolaus018.github.io/dji-fcc-esp32/). |
 
 ## Tech
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?logo=espressif&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-000000?logo=apple&logoColor=white)
