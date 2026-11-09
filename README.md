@@ -2,7 +2,7 @@
 
 Most of what I build starts because I need it: a panel to run my own servers, a route planner for my Zivildienst tours, a chartplotter for the boat, and two little boards that save me a few annoying seconds every day. Sometimes it's just curiosity, like teaching a Mac to DJ. It's all open source, and the servers run on a mini PC at home.
 
-**[ringtwo.win](https://ringtwo.win)** has the long version: playable Passable transitions, a garage-door state machine you can drive, and live status of everything running at home.
+**[ringtwo.win](https://ringtwo.win)** has the long version. Every project there has something to play with: break a Venvy deploy, find a Viennese door in the city's register with EAR Router's own rules, sail around rocks, drive a car home through the garage door.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="activity-dark.svg">
@@ -64,6 +64,5 @@ A pocket dongle that replaces an Android app. An ESP32-S3, acting as USB host, p
 </tr>
 </table>
 
-**[ahm](https://github.com/nikolaus018/ahm)** is a crosshair overlay for Windows that uses 0 % CPU while idle: plain Win32 C, plus a WinUI 3 settings app that quits when you close it.
 
 <sub>The chart is generated from these repos' commit history by <a href="https://github.com/nikolaus018/ringtwo.win/blob/main/tools/activity_svg.py">tools/activity_svg.py</a>.</sub>
