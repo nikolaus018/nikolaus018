@@ -1,4 +1,4 @@
-### Nikolaus · Vienna · born 2007
+### Nikolaus · Vienna
 
 Most of what I build starts because I need it: a panel to run my own servers, a route planner for my Zivildienst tours, a chartplotter for the boat, and two little boards that save me a few annoying seconds every day. Sometimes it's just curiosity, like teaching a Mac to DJ. It's all open source, and the servers run on a mini PC at home.
 
