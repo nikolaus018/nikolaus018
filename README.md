@@ -8,7 +8,7 @@ Software developer in Vienna. I work on iOS and macOS apps, self-hosted server t
 
 **[Passable](https://github.com/nikolaus018/passable)** is a macOS app that mixes songs like a DJ. It splits each song into vocals, melody, drums and bass with Core ML (HTDemucs and Mel-Band RoFormer), orders the set by tempo, key and energy, and plans every transition stem by stem. You can [listen to transitions from a real set](https://passable.ringtwo.win).
 
-**[EAR Router](https://github.com/nikolaus018/ear-router)** is a route planner for Meals on Wheels drivers in Vienna, in daily use. It's an offline iOS app that checks addresses against the city's building register and orders stops with a self-hosted OSRM server.
+**EAR Router** ([iOS](https://github.com/nikolaus018/ear-router-ios), [web](https://github.com/nikolaus018/ear-router-web)) is a route planner for Meals on Wheels drivers in Vienna, in daily use. The iOS app is an offline app that checks addresses against the city's building register and orders stops with a self-hosted OSRM server.
 
 **[Leeway](https://github.com/nikolaus018/leeway)** is a chartplotter and passage planner for iPhone. It routes around shallows, rocks, wrecks and low bridges, has weather routing, AIS alarms and an anchor watch, and builds its charts from open data.
 
